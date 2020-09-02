@@ -1,0 +1,96 @@
+[
+    { 
+       "restaurantName":"Colibri",
+       "address":"1 Rue des oiseaux, 33000 Bordeaux",
+       "lat":44.739901,
+       "long":-0.683828,
+       "ratings":[
+          {
+             "stars":4,
+             "comment":"Un excellent restaurant, j'y reviendrai ! Par contre il vaut mieux aimer la viande."
+          },
+          {
+             "stars":5,
+             "comment":"Tout simplement mon restaurant préféré !"
+          }
+       ],
+       "averageRating": "",
+       "id": null
+    },
+    {
+       "restaurantName":"La Pie",
+       "address":"4 Rue Lamarck, 33000 Bordeaux",
+       "lat":44.739885,
+       "long":-0.684890,
+       "ratings":[
+          {
+             "stars":5,
+             "comment":"Une minuscule pizzeria délicieuse cachée juste à côté du Sacré choeur !"
+          },
+          {
+             "stars":3,
+             "comment":"J'ai trouvé ça correct, sans plus"
+          }
+       ],
+       "averageRating": "",
+       "id": null
+    },
+    {
+      "restaurantName":"Les Aigles",
+      "address":"15 allée des Champs, 33000 Bordeaux",
+      "lat":44.739466,
+      "long":-0.684590,
+      "ratings":[
+         {
+            "stars":2,
+            "comment":"Pas génial"
+         },
+         {
+            "stars":1,
+            "comment":"Grosse déception"
+         }
+      ],
+      "averageRating": "",
+      "id": null
+   },
+   {
+      "restaurantName":"Les Fauvettes",
+      "address":"6 Rue du marché, 33000 Bordeaux",
+      "lat":44.739611,
+      "long":-0.683109,
+      "ratings":[
+         {
+            "stars":3,
+            "comment":"Moyen"
+         },
+         {
+            "stars":4,
+            "comment":"Très bon"
+         }
+      ],
+      "averageRating": "",
+      "id": null
+   },
+   {
+      "restaurantName":"Le Rouge-gorge",
+      "address":"22 Route du lac, 33000 Bordeaux",
+      "lat":44.740427,
+      "long":-0.685244,
+      "ratings":[
+         {
+            "stars":1,
+            "comment":"Trop d'attente"
+         },
+         {
+            "stars":4,
+            "comment":"Excellent!"
+         },
+         {
+            "stars":3,
+            "comment":"Pas mal"
+         }
+      ],
+      "averageRating": "",
+      "id": null
+   }
+]
