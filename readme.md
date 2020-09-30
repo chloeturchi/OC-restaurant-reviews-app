@@ -1,22 +1,18 @@
-# Site d'avis de restaurants
+# Restaurant Reviews - [school project]
 
-Cette application permet d'avoir des avis sur des restaurants autour de soi.
-Les visiteurs peuvent donnez leur avis sur les restaurants, et ajouter un nouveau restaurant en cliquant sur un lieu spécifique de la carte.
+## Introduction
 
-Lien pour acceder au projet:
-* [Projet 7](https://projet7.projetschloeturchi.fr/)
+### Instructions: Take over and improve an existing project.
+- Develop a complete JavaScript application in accordance with specifications
+- Use an external API in JavaScript
 
-### Installation
+## Tools
+- html
+- css
+- javascript
+- Google maps API
 
-Il n'y a pas d'installation ni de pré-requis pour commencer ce projet.
+## Build with
 
-## Fabriqué avec
-
-* [Visual Studio Code](https://code.visualstudio.com/) - Editeur de textes
-
-Plugin utilisés: Live Server
-
-## Auteur
-
-Chloé Turchi
+* [Visual Studio Code](https://code.visualstudio.com/) - text editor
 
